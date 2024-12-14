@@ -39,14 +39,19 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
+![step1](https://github.com/user-attachments/assets/367f21f1-4bea-4547-a584-bcf11b46a80e)
+![step2](https://github.com/user-attachments/assets/d5e87660-dddd-43f0-b938-a5f5fa10f670)
+![step3](https://github.com/user-attachments/assets/0fa7f248-89ff-4d75-970d-c9742ac8703f)
+![step4](https://github.com/user-attachments/assets/9b093f45-5b95-453f-9c69-13f8ea16cfd1)
+![step5](https://github.com/user-attachments/assets/54a97348-99ed-45ba-9005-1ed6ace68de9)
+![step6](https://github.com/user-attachments/assets/6cc5c1be-d784-412e-a3a9-6218f33ccd75)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Dhruv.D
+### Register Number:24900416
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
